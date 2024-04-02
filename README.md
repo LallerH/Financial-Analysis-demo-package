@@ -1,0 +1,1 @@
+This is a demo part (a Python package) of my Financial Analysis tool, being a project under development. Functions of analysis of revenues (components, currencies, tendencies etc.) as well as analysis of raw materials (components, prices, consumption, cost ratio) is already in testing phase, Beta version is in publishing process / link will be available soon!
